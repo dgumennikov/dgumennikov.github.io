@@ -1,0 +1,51 @@
+<svg width="80" height="80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <mask id="a" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="80" height="80">
+        <path fill="#E9E9E9" d="M0 0h80v80H0z"/>
+    </mask>
+    <g mask="url(#a)">
+        <path d="M21.227 57.237c-1.533-.72-1.533-2.9 0-3.62l15.372-7.22a8 8 0 016.802 0l15.372 7.22c1.533.72 1.533 2.9 0 3.62l-15.372 7.22a8 8 0 01-6.802 0l-15.372-7.22z"
+              stroke="url(#paint0_linear)" stroke-width="3"/>
+        <path d="M21.227 49.237c-1.533-.72-1.533-2.9 0-3.62l15.372-7.22a8 8 0 016.802 0l15.372 7.22c1.533.72 1.533 2.9 0 3.62l-15.372 7.22a8 8 0 01-6.802 0l-15.372-7.22z"
+              stroke="url(#paint1_linear)" stroke-width="3"/>
+        <path d="M21.227 41.237c-1.533-.72-1.533-2.9 0-3.62l15.372-7.22a8 8 0 016.802 0l15.372 7.22c1.533.72 1.533 2.9 0 3.62l-15.372 7.22a8 8 0 01-6.802 0l-15.372-7.22z"
+              stroke="url(#paint2_linear)" stroke-opacity=".7" stroke-width="2"/>
+        <path d="M21.227 35.237c-1.533-.72-1.533-2.9 0-3.62l15.372-7.22a8 8 0 016.802 0l15.372 7.22c1.533.72 1.533 2.9 0 3.62l-15.372 7.22a8 8 0 01-6.802 0l-15.372-7.22z"
+              stroke="url(#paint3_linear)" stroke-opacity=".6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+        <path d="M21.227 30.438c-1.533-.72-1.533-2.9 0-3.62l15.372-7.22a8 8 0 016.802 0l15.372 7.22c1.533.72 1.533 2.9 0 3.62l-15.372 7.22a8 8 0 01-6.802 0l-15.372-7.22z"
+              stroke="url(#paint4_linear)" stroke-opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+        <path d="M21.227 26.438c-1.533-.72-1.533-2.9 0-3.62l15.372-7.22a8 8 0 016.802 0l15.372 7.22c1.533.72 1.533 2.9 0 3.62l-15.372 7.22a8 8 0 01-6.802 0l-15.372-7.22z"
+              stroke="url(#paint5_linear)" stroke-opacity=".4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+        <path d="M21.227 22.438c-1.533-.72-1.533-2.9 0-3.62l15.372-7.22a8 8 0 016.802 0l15.372 7.22c1.533.72 1.533 2.9 0 3.62l-15.372 7.22a8 8 0 01-6.802 0l-15.372-7.22z"
+              stroke="url(#paint6_linear)" stroke-opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+    </g>
+    <defs>
+        <linearGradient id="paint0_linear" x1="39.868" y1="58.5" x2="39.868" y2="48" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5E308C"/>
+            <stop offset="1" stop-color="#CEC8D5" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint1_linear" x1="39.868" y1="50.5" x2="39.868" y2="40" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5E308C"/>
+            <stop offset="1" stop-color="#CEC8D5" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint2_linear" x1="39.868" y1="42.5" x2="39.868" y2="32" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5E308C"/>
+            <stop offset="1" stop-color="#CEC8D5" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint3_linear" x1="39.868" y1="36.5" x2="39.868" y2="26" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5E308C"/>
+            <stop offset="1" stop-color="#CEC8D5" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint4_linear" x1="39.868" y1="31.7" x2="39.868" y2="21.2" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5E308C"/>
+            <stop offset="1" stop-color="#CEC8D5" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint5_linear" x1="39.868" y1="27.7" x2="39.868" y2="17.2" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5E308C"/>
+            <stop offset="1" stop-color="#CEC8D5" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="paint6_linear" x1="39.868" y1="23.7" x2="39.868" y2="13.2" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5E308C"/>
+            <stop offset="1" stop-color="#CEC8D5" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+</svg>
